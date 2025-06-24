@@ -1,6 +1,6 @@
 # Bellabeat Case Study 🧘‍♀️📊
 
-This project is part of the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics).
+This project is part of the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics). Click the `.ipynb` above to access it.
 
 ## 📌 Objective
 
